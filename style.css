@@ -1,0 +1,47 @@
+body{
+      font-family: 'Oswald', sans-serif;
+      margin: 0%;
+      
+}
+.my-style{
+      display: flex;
+      margin-bottom: 120px;
+}
+.top-div{
+      width: 50%;
+      margin: 0%;
+}
+h1{
+      font-size: 50px;
+}
+.my-orange{
+      color: orange;
+}
+.head-para{
+      margin: 70px 0px 1px 10px;
+      padding-left: 6%;
+      padding-top: 6%;
+}
+.link-button{
+      text-decoration: none;
+      font-size: 25px;
+      background-image: linear-gradient(#720f27,rgb(57, 30, 75));
+      padding: 10px 40px;
+      color: orange;
+      font-weight: 400px;
+      border-radius: 10px;
+}
+.about-me{
+      background-image: url(images/back.png);
+      background-repeat: no-repeat;
+      background-size: 100%;
+}
+}
+.girl-img{
+      width: 80px;
+      padding-right: 4%;
+}
+#food-girl{
+    padding-left: 20%;
+    margin-bottom: 0;
+}
